@@ -1,4 +1,4 @@
-# research-data
+# Research Data
 This repository provides links to the datasets used in our study
 
 # Dataset List
